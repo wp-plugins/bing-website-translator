@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-15 20:53+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SurStudio\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /home/fede/http/dev.surstudio.net/wp-new/wp-content/"
+"plugins/bing-website-translator\n"
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:120
+msgid "No settings to export. The current settings are the default ones."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:172
+msgid "Usage"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:176
+#, php-format
+msgid ""
+"\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Go to the <em>Appereance &gt; Widgets</em> panel, search for the "
+"following widget<br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>%s</code><br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Copy and paste the following code into pages, posts, etc...<br /"
+"><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>[prisna-bing-website-translator]</code><br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Copy and paste the following code into any PHP file<br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>&lt;?php echo do_shortcode('[prisna-bing-website-"
+"translator]'); ?&gt;</code><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:204
+msgid "Website's language"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:205
+msgid "Sets the website's source language."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:215
+msgid "When to translate"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:216
+msgid "Sets when the translation takes place."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:221
+msgid "Manual, translate when visitor clicks on the translate button"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:222
+msgid "Auto, translate automatically based on the visitor's browser language"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:228
+msgid "Style mode"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:241
+msgid "Align mode"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:242
+msgid "Sets the alignment mode of the translator within its container."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:247
+msgid "Left"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:248
+msgid "Right"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:254
+msgid "Show flags over translator"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:255
+msgid "Sets whether to display a few flags over the translator, or not."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:260
+msgid "Yes, show flags"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:261
+msgid "No, don't show flags"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:267
+msgid "Select languages"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:268
+msgid "Sets the available languages to display over the translator."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:269
+msgid "Languages order"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:270
+msgid "Defines the order to display the languages."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:283
+msgid "Test mode"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:284
+msgid ""
+"Sets whether the translator is in test mode or not. In \"test mode\", the "
+"translator will be displayed only if the current logged in user has admin "
+"privileges.<br />Is useful for setting up the translator without letting "
+"visitors to see the changes while the plugin is being implemented."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:289
+msgid "Yes, enable test mode"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:290
+msgid "No, disable test mode"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:296
+msgid "Custom CSS"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:297
+msgid "Defines custom CSS rules."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:305
+msgid "Hide on pages, posts and categories"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:314
+msgid "Pages"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:315
+msgid "Selects the pages where the translator should not be displayed."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:325
+msgid "Posts"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:326
+msgid "Selects the posts where the translator should not be displayed."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:336
+msgid "Categories"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:337
+msgid "Selects the categories where the translator should not be displayed."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:347
+msgid "Templates"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:356
+msgid "Flags container template"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:357
+msgid ""
+"Sets the flags' container template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:369
+msgid "Flag template"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:370
+msgid ""
+"Sets the flag's template. New templates can be created if the provided one "
+"doesn't fit the web page requirements."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:382
+msgid "Import settings"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:383
+msgid ""
+"Imports previously exported settings. Paste the previously exported settings "
+"in the field. If the data's structure is correct, it will overwrite the "
+"current settings."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:391
+msgid "Export settings"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/config.class.php:392
+msgid ""
+"Exports the current settings to make a backup or to transfer the settings "
+"from the development server to the production server. Triple click on the "
+"field to select all the content."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/common.class.php:691
+#, php-format
+msgid "Add the %s."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/common.class.php:705
+msgid "Automatic"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:162
+msgid "Bing Website Translator"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:163
+msgid "Settings saved."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:164
+msgid "Settings reseted."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:165
+msgid ""
+"All the settings will be reseted and restored to their default values. Do "
+"you want to continue?"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:166
+msgid "Save changes"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:167
+msgid "Reset settings"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:239
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:242
+msgid "General"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:241
+msgid "Advanced"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:243
+msgid "Upgrade"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:244
+msgid "Import / Export"
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:245
+msgid "Settings succesfully imported."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:246
+msgid ""
+"There was a problem while importing the settings. Please make sure the "
+"exported string is complete. Changes weren't saved."
+msgstr ""
+
+#: /home/fede/http/dev.surstudio.net/wp-new/wp-content/plugins/bing-website-translator/classes/admin.class.php:247
+#, php-format
+msgid "Bing Website Translator requires WordPress version %s or later."
+msgstr ""
