@@ -11,7 +11,7 @@ Add Bing Website Translator to your website, and make it instantly available in 
 
 == Description ==
 
-This plugin brings the power of Bing's automatic translation service to translate your website into 70+ languages. It also comes with a slick admin panel, so it can be installed into your client's website without losing the professional look and feel of your work.
+This plugin brings the power of Bing's automatic translation service to translate your website into 40+ languages. It also comes with a slick admin panel, so it can be installed into your client's website without losing the professional look and feel of your work.
 
 = Features: =
 * Easy set up, including simple settings with inline help that everybody can understand.
