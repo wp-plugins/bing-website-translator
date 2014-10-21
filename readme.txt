@@ -40,7 +40,7 @@ There are a number of Bing translation plugins in this great repository. However
 == Frequently Asked Questions ==
 
 = What are the supported languages? =
-Arabic, Bulgarian, Catalan, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Haitian Creole, Hebrew, Hindi, Hmong Daw, Hungarian, Indonesian, Italian, Japanese, Klingon, Korean, Latvian, Lithuanian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh
+Arabic, Bulgarian, Catalan, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Haitian Creole, Hebrew, Hindi, Hmong Daw, Hungarian, Indonesian, Italian, Japanese, Klingon, Korean, Latvian, Lithuanian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Urdu, Vietnamese and Welsh.
 
 = How can I exclude some parts from being translated? =
 You should add the *notranslate* style class to the container HTML element. Or if you want to exclude just a piece of text, you should wrap it within a HTML element with the *notranslate* style class, for instance:
