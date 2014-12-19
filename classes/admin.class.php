@@ -240,7 +240,7 @@ class PrisnaBWTAdminForm extends PrisnaBWTAdminBaseForm {
 
 		$this->advanced_message = __('Advanced', 'prisna-bwt');
 		$this->advanced_general_message = __('General', 'prisna-bwt');
-		$this->premium_message = __('Upgrade', 'prisna-bwt');
+		$this->premium_message = __('Premium', 'prisna-bwt');
 		$this->advanced_import_export_message = __('Import / Export', 'prisna-bwt');
 		$this->advanced_import_success_message = __('Settings succesfully imported.', 'prisna-bwt');
 		$this->advanced_import_fail_message = __('There was a problem while importing the settings. Please make sure the exported string is complete. Changes weren\'t saved.', 'prisna-bwt');
