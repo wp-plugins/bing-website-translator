@@ -32,7 +32,7 @@ class PrisnaBWT {
 		
 		$translator = new PrisnaBWTOutput((object) $settings);
 
-		echo $translator->render(array(
+		return $translator->render(array(
 			'type' => 'file',
 			'content' => '/main.tpl'
 		));
