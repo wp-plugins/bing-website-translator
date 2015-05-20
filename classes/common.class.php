@@ -695,26 +695,13 @@ class PrisnaBWTUI extends WP_Widget {
  
 	public function form($_instance) {
 
-		$display_mode = PrisnaBWTConfig::getSettingValue('display_mode');
+		$style_mode = PrisnaBWTConfig::getSettingValue('style');
 		
-		$style = $display_mode != 'automatic' ? PrisnaBWTConfig::getSettingValue('style_' . $display_mode) : null;
-		
-		$class_name = 'prisna_bwt_widget_container_';
-		
-		if ($display_mode == 'automatic') {
-			$result = __('Automatic', 'prisna-bwt');
-			$class_name .= 'text';
-		}
-		else {
-			$style_setting = PrisnaBWTConfig::getSetting('style_' . $display_mode);
-			$path = $style_setting['values'][$style_setting['value']];
-			$result = '<img src="' . $path . '" alt="" />';
-			$class_name .= 'image';
-		}
+		$style_setting = PrisnaBWTConfig::getSetting('style');
+		$path = $style_setting['values'][$style_mode];
+		$result = '<img src="' . $path . '" alt="" />';
 
-		
-
-		echo '<div class="' . $class_name . '">' . $result . '</div>';
+		echo '<div class="prisna_bwt_widget_container_image">' . $result . '</div>';
 
 		return 'noform';
 
