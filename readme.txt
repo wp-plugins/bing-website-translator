@@ -20,6 +20,10 @@ This plugin brings the power of Bing's automatic translation service to translat
 * Import/Export settings to easily transfer configurations.
 * For feature requests, please [contact us](https://www.prisna.net/contact-us/).
 
+= Support: =
+* Create a ticket here in the WordPress support forum: [https://wordpress.org/support/plugin/bing-website-translator](https://wordpress.org/support/plugin/bing-website-translator)
+* Or you can also ask for assistance directly from our website: [https://www.prisna.net/contact-us/](https://www.prisna.net/contact-us/)
+
 = Advantages over similar plugins: =
 There are a number of Bing translation plugins in this great repository. However, most of them haven't been carefully built. Here's a list of reasons of why you should choose this plugin:
 

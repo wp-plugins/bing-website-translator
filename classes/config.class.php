@@ -179,18 +179,18 @@ class PrisnaBWTConfig {
 				
 				<code>%s</code><br /><br />
 				
-				- Copy and paste the following code into pages, posts, etc...<br /><br />
+				- Or copy and paste the following code into pages, posts, etc...<br /><br />
 				
 				<code>[prisna-bing-website-translator]</code><br /><br />
 				
-				- Copy and paste the following code into any PHP file<br /><br />
+				- Or copy and paste the following code into any page, post or front end PHP file<br /><br />
 				
 				<code>&lt;?php echo do_shortcode(\'[prisna-bing-website-translator]\'); ?&gt;</code><br />
 				
 				', 'prisna-bwt'), self::getWidgetName()),
 				'group' => 1
 			),
-			
+
 			'premium' => array(
 				'title_message' => '',
 				'description_message' => '',

@@ -696,7 +696,7 @@ class PrisnaBWTUI extends WP_Widget {
 	public function form($_instance) {
 
 		$style_mode = PrisnaBWTConfig::getSettingValue('style');
-		
+
 		$style_setting = PrisnaBWTConfig::getSetting('style');
 		$path = $style_setting['values'][$style_mode];
 		$result = '<img src="' . $path . '" alt="" />';
